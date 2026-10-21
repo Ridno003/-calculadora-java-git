@@ -4,6 +4,11 @@
 import java.util.Scanner;
 
 public class Calculadora {
+     // Corrección de bug de suma
+    public int multiplicar(int a, int b) { 
+        return a * b;
+    } 
+
     public static void main(String[] args) {
 
         /* Se asegura de cerrar el Scanner de forma automática al terminar de usarlo  */
