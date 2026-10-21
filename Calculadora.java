@@ -4,7 +4,11 @@
 import java.util.Scanner;
 
 public class Calculadora {
+<<<<<<< HEAD
      // Corrección de bug de suma
+=======
+     // Modificación de suma en feature
+>>>>>>> feature-multiplicacion
     public int multiplicar(int a, int b) { 
         return a * b;
     } 
