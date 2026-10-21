@@ -4,7 +4,7 @@
 import java.util.Scanner;
 
 public class Calculadora {
-     
+     // Modificación de suma en feature
     public int multiplicar(int a, int b) { 
         return a * b;
     } 
